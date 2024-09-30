@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-//Line 1 on Test Branch
+//dev1 commited file1
 //Line 2 on Test Branch
 //Line 3 on Test Branch
-=======
-//dev1 commited file1
->>>>>>> master
 //Key Bad & 7_Segment Project
  //Includes
   #include "mbed.h"
